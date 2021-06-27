@@ -1087,8 +1087,8 @@ Ammo().then((Ammo) => {
     createBox(44, 2, -70, 4, 4, 1, boxTexture.thunder, URL.imranbasha, 0xffffff, false);
 
     floatingLabel(-11.975, 4.5, -70, 'Facebook');
-    floatingLabel(-3.875, 4.5, -70, 'Instagram');
-    floatingLabel(3.875, 4.5, -70, 'Twitter');
+    floatingLabel(-3.875, 4.5, -70, 'Twitter');
+    floatingLabel(3.875, 4.5, -70, 'Instagram');
     floatingLabel(11.875, 4.5, -70, 'Github');
     floatingLabel(19.125, 4.5, -70, 'Medium');
     floatingLabel(26.875, 4.5, -70, 'LinkedIn');
